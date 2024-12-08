@@ -44,28 +44,6 @@ I'm a process design leader turned software engineer, blending 4+ years of exper
 
 ---
 
-## 🖥️ Featured Projects  
-### **[BodyLingo](https://github.com/betty-alemayehu/capstone-form-client)**  
-- **Description:** AI-powered yoga posture evaluator built with React, Node.js, and Mediapipe.  
-- **Key Features:**  
-  - Real-time posture analysis.  
-  - Gamified progress tracking.  
-  - Dynamic feedback for users.  
-
-### **[R00T (Green EdTech Game)](https://betty-experiments.itch.io/root)**  
-- **Description:** Collaborative educational game created during Toronto Game Jam.  
-- **Key Features:**  
-  - Gamified learning experience published on Google Play Store.  
-  - Cross-functional teamwork with UX/UI, sound, and software engineers.  
-
-### **[Deimax: Personal Diagnostics Companion](https://betelhema.notion.site/Deimax-Mobile-App-Device-2005e730e54643eab5264404c6b1e498)**  
-- **Description:** Mobile app prototype for diagnostics, built with graduate researchers and UX designers.  
-- **Key Features:**  
-  - Rapid prototyping in 1 month.  
-  - Focus on user-centric design for medical applications.  
-
----
-
 ## 🤝 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/bettyalemayehu" target="_blank">
@@ -79,16 +57,6 @@ I'm a process design leader turned software engineer, blending 4+ years of exper
 </a>
 </p>
 
----
-
-## 🌟 Highlights  
-- 🏆 **Awards & Recognition:**  
-  - Scotiabank Employee of the Year, 2021  
-  - Junior Achievers Central Ontario New Advisor of the Year, 2022  
-
-- 🛠️ **Certifications:**  
-  - Lean Six Sigma Green Belt  
-  - Ethical Conduct for Research Involving Humans, 2024  
 
 ---
 
