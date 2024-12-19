@@ -5,7 +5,7 @@ I'm a process design leader turned software engineer, blending 4+ years of exper
 ---
 
 ## 🔍 About Me  
-- 🌟 **Currently working on:** [BodyLingo](https://github.com/betty-alemayehu/capstone-form-client), an AI-powered yoga posture evaluation platform.  
+- 🌟 **Currently working on:** [bodylingo](https://github.com/betty-alemayehu/capstone-form-client), an AI-powered yoga posture evaluation platform.  
 - 📚 **Learning:** AI frameworks like Mediapipe and TensorFlow to teach machines new tricks.  
 - 💡 **Ask me about:** Lean UX, JavaScript, and gamifying education.  
 - 🌱 **Fun fact:** I'm on a 1600+ day streak with Duolingo—multilingual learning is my superpower!  
