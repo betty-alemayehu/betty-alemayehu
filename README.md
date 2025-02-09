@@ -1,6 +1,6 @@
 # Hi 👋, I'm Betty Alemayehu
-### Process Designer | Full-Stack Developer | Yoga Teacher  
-I'm a process design leader turned software engineer, blending 4+ years of experience in Lean Six Sigma and process automation with a passion for user-centric software development. Transitioning into roles in EdTech and HealthTech, I love crafting solutions that merge technology, design, and education.  
+### Process Designer | UX Engineer | Yoga Teacher  
+I'm a process design leader turned UX engineer, blending 4+ years of experience in Lean Six Sigma and process automation with a passion for user-centric software development. Transitioning into roles in EdTech and HealthTech, I love crafting solutions that merge technology, design, and education.  
 
 ---
 
