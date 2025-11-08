@@ -1,6 +1,6 @@
 # Hi 👋, I'm Betty Alemayehu
-### Product Manager | UX Engineer | Yoga Teacher  
-I'm a process design leader turned UX engineer, blending 4+ years of experience in Lean Six Sigma and process automation with a passion for user-centric software development. Transitioning into roles in EdTech and HealthTech, I love crafting solutions that merge technology, design, and education.  
+### Product Manager | Yoga Teacher  
+I'm a product manager, with 5+ years of experience in the finance space. I bring Lean UX and product sense together, engineering software that solves real problems.  
 
 ---
 
@@ -8,7 +8,7 @@ I'm a process design leader turned UX engineer, blending 4+ years of experience 
 - 🌟 **Currently working on:** [bodylingo](https://github.com/betty-alemayehu/capstone-form-client), an AI-powered yoga posture evaluation platform.  
 - 📚 **Learning:** AI frameworks like Mediapipe and TensorFlow to teach machines new tricks.  
 - 💡 **Ask me about:** Lean UX, JavaScript, and gamifying education.  
-- 🌱 **Fun fact:** I'm on a 1600+ day streak with Duolingo—multilingual learning is my superpower!  
+- 🌱 **Fun fact:** I'm on a ~2000 day streak with Duolingo—multilingual learning is my superpower!  
 
 ---
 
